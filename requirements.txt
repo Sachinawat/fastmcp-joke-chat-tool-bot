@@ -1,0 +1,14 @@
+fastmcp
+openai
+python-dotenv
+requests
+flask
+flask-cors
+gunicorn
+transformers
+torch
+accelerate
+bitsandbytes
+sentencepiece
+protobuf
+
